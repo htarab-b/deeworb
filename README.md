@@ -4,7 +4,6 @@
 
 
 <h1 align="center">I am Barath</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Dot Net, PHP**
 
