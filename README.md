@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dot Net, PHP**
 
-- 💬 Ask me about **C, C++, Python**
+- 💬 Ask me about **C, C++, Python, HTML, CSS**
 
 - 📫 How to reach me **mailbarathsriram22@gmail.com**
 
