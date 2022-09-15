@@ -5,17 +5,17 @@
 
 <h1 align="center">I am Barath B</h1>
 
-- 🌱 I’m currently learning **CRM**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS, PHP**
+- 💬 Ask me about **Java, Python, C++, HTML, CSS, PHP**
 
-- 📫 Reach me through **mailbarathsriram22@gmail.com**
+- 📫 Reach me through **htarab.2002@gmail.com**
 
 - ⚡ Fun fact **I'm a GAMER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/htarab_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deeworb" height="30" width="40" /></a>
+<a href="mailto:htarab.2002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="htarab_b" height="30" width="40" /></a><a href="https://www.linkedin.com/in/htarabb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="htarab_b" height="30" width="40" /></a><a href="https://instagram.com/htarab_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="htarab_b" height="30" width="40" /></a><a href="https://www.hackerrank.com/htarab_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="htarab_b" height="30" width="40" /></a><a href="https://leetcode.com/htarab_b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="htarab_b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
