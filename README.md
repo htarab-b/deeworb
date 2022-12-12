@@ -5,7 +5,7 @@
 
 <h1 align="center">I am Barath B</h1>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, Python, C++, HTML, CSS, PHP**
 
