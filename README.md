@@ -79,7 +79,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=htarab-b&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=htarab-b&show_icons=true&locale=en&layout=compact" align="center" />
+&nbsp &nbsp &nbsp &nbsp
+<img src="https://github-readme-stats.vercel.app/api?username=htarab-b&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
 <br/>  
 
