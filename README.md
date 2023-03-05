@@ -1,26 +1,89 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
+</div>  
+  
+
+### <div align="center">I'm Barath, an aspiring Software Developer and Tech Enthusiast</div>  
+  
+
+- 🔭 I’m currently invested in brushing up my skills in Backend Programming and API Development
+  
+
+- 👨‍💻 My research interests include Software Development Technologies and Frameworks
+  
+
+- ❓ If you want to talk about Data Structures, Algorithms or Design Principles, I'm your guy 😉
+  
+
+- ⚡ Fun fact: I can not only code but also solve 20 different types of Rubik's Cubes 💪  
+  
+
+<br/>  
 
 
-<h1 align="center">I am Barath B</h1>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-- 🌱 I’m currently learning **React**
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/html5-41-1175209.png?f=avif&w=512" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/css3-10-1175238.png?f=avif&w=512" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png?f=avif&w=512" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-2038880-1720093.png?f=avif&w=512" alt="Bootstrap" height="50" />  
+</div></td><td valign="top" width="33%">
 
-- 💬 Ask me about **Data Structures, Algorithms, OOPS, Problem Solving**
+### Backend & DBMS
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=512" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png?f=avif&w=512" alt="Java" height="50" /> 
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=512" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/djangoproject-2752208-2285025.png?f=avif&w=512" alt="Django" height="50" /> 
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/php-2752101-2284918.png?f=avif&w=512" alt="PHP" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-2-226035.png?f=avif&w=512" alt="NodeJS" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-3521596-2945040.png?f=avif&w=512" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png?f=avif&w=512" alt="SQL Server" height="50" />  
+</div></td><td valign="top" width="33%">
 
-- 📫 Reach me through **htarab.2002@gmail.com**
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png?f=avif&w=512" alt="Git" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/github-163-761603.png?f=avif&w=512" alt="GitHub" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/shell-36-805934.png?f=avif&w=512" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/linux-21-1174928.png?f=avif&w=512" alt="Linux" height="50" />  
+</div></td></tr></table>  
 
-- ⚡ Fun fact **I can solve 20 different types of Rubik's Cubes**
+<br/>  
 
-<h3 align="left">Profiles:</h3>
-<p align="left">
-<a href="mailto:htarab.2002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a><a href="https://www.linkedin.com/in/htarabb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://leetcode.com/htarab_b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="40" /></a> <a href="https://www.hackerrank.com/htarab_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>  <a href="https://www.quora.com/profile/Barath-B-4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/django.svg" alt="Django" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="Postman" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+## Connect with me  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htarab-b&show_icons=true&locale=en&layout=compact" alt="htarab-b" /></p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htarab-b&show_icons=true&locale=en" alt="htarab-b" /></p>
+### My Social  
+<div align="center">
+<a href="https://github.com/htarab-b" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:htarab.2002@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/htarabb" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/htarab_b" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=htarab-b&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br />
+
+----
+<i>GIF credits https://rishavanand.github.io/static/images/greetings.gif</i>
