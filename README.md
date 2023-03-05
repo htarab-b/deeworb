@@ -61,16 +61,25 @@
 ### My Social  
 <div align="center">
 <a href="https://github.com/htarab-b" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=GitHub style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:htarab.2002@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/htarabb" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/htarab_b" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.quora.com/profile/Barath-B-4" target="_blank">
+<img src="https://img.shields.io/badge/Quora-%23b92b27?&style=for-the-badge&logo=Quora&logoColor=white" alt=Quora style="margin-bottom: 5px;"></img>
+</a>
+<a href="https://leetcode.com/htarab_b/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-%23fea116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt=LeetCode style="margin-bottom: 5px;"/>
+</a>
+<a href="https://www.hackerrank.com/htarab_b" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-%23068932?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt=HackerRank style="margin-bottom: 5px;"></img>
 </a>
 </div>  
   
@@ -80,9 +89,9 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=htarab-b&show_icons=true&locale=en&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htarab-b&layout=compact&theme=dark" align="center" />
 &nbsp &nbsp &nbsp &nbsp
-<img src="https://github-readme-stats.vercel.app/api?username=htarab-b&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=htarab-b&theme=dark" align="center" />
 </div>  
 
 <br/>  
