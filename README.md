@@ -70,7 +70,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/htarab_b" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-purple.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.quora.com/profile/Barath-B-4" target="_blank">
 <img src="https://img.shields.io/badge/Quora-%23b92b27?&style=for-the-badge&logo=Quora&logoColor=white" alt=Quora style="margin-bottom: 5px;"></img>
@@ -89,7 +89,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htarab-b&layout=compact&theme=dark" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htarab-b&layout=default&theme=dark" align="center" />
 &nbsp &nbsp &nbsp &nbsp
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=htarab-b&theme=dark" align="center" />
 </div>  
