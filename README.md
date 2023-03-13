@@ -6,16 +6,16 @@
 ### <div align="center">I'm Barath, an aspiring Software Developer and Tech Enthusiast</div>  
   
 
-- 🔭 I’m currently invested in brushing up my skills in Backend Programming and API Development
+- 🔭 I’m currently invested in brushing up my skills in Full-Stack Development and API Programming
   
 
-- 👨‍💻 My research interests include Software Development Technologies and Frameworks
+- 👨‍💻 My research interests include Software Development Practices and Programming Technologies
   
 
 - ❓ If you want to talk about Data Structures, Algorithms or Design Principles, I'm your guy 😉
   
 
-- ⚡ Fun fact: I can not only code but also solve 20 different types of Rubik's Cubes 💪  
+- ⚡ Fun fact: I can not only code but also solve 20 different types of Rubik's Cubes 😬
   
 
 <br/>  
@@ -29,7 +29,7 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/html5-41-1175209.png?f=avif&w=512" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/css3-10-1175238.png?f=avif&w=512" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png?f=avif&w=512" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-2038880-1720093.png?f=avif&w=512" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/officel/512/react.png" alt="React JS" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### Backend & DBMS
