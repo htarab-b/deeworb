@@ -1,21 +1,25 @@
+
+----
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 </div>  
-  
+
+----
 
 ### <div align="center">I'm Barath, an aspiring Software Developer and Tech Enthusiast</div>  
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></div>
+  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🔭 &nbsp; I’m currently invested in brushing up my skills in Full-Stack Development and Machine Learning
   
 
-- 🔭 I’m currently invested in brushing up my skills in Full-Stack Development and API Programming
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 👨‍💻 &nbsp; My research interests include Programming Technologies and Development Frameworks
   
 
-- 👨‍💻 My research interests include Software Development Practices and Programming Technologies
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ❓ &nbsp; If you want to talk about Data Structures, Algorithms and Software Development, I'm your guy 😉
   
 
-- ❓ If you want to talk about Data Structures, Algorithms or Design Principles, I'm your guy 😉
-  
-
-- ⚡ Fun fact: I can not only code but also solve 20 different types of Rubik's Cubes 😬
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🤪 &nbsp; Fun fact: I talk too much 💀
   
 
 <br/>  
@@ -55,10 +59,8 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me
 
-
-### My Social  
 <div align="center">
 <a href="https://github.com/htarab-b" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=GitHub style="margin-bottom: 5px;" />
@@ -89,14 +91,18 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htarab-b&layout=default&theme=dark" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htarab-b&theme=dark" align="center" />
 &nbsp &nbsp &nbsp &nbsp
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=htarab-b&theme=dark" align="center" />
 </div>  
 
 <br/>  
+<br/>
 
-<br />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ----
-<i>GIF credits https://rishavanand.github.io/static/images/greetings.gif</i>
+<i>GIF credits :<br/>
+https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif <br/>
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+</i>
